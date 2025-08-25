@@ -1,4 +1,4 @@
-# Phantom Wallet iOS Simulation
+# Fake Phantom Wallet iOS SPOOF
 
 ## 🎥 Demo Video
 [![Watch the video](https://img.youtube.com/vi/SQm6CCgWejg/maxresdefault.jpg)](https://www.youtube.com/watch?v=SQm6CCgWejg)
@@ -23,4 +23,4 @@
 ---
 
 ## 📩 Contact
-Telegram: [@AURUS_77](https://t.me/AURUS_77)
+Telegram: [@fake_phantom_wallet](https://t.me/fake_phantom_wallet)
